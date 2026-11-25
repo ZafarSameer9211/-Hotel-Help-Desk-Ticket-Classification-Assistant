@@ -1,0 +1,3 @@
+Classifier,Correct_Predictions,Incorrect_Predictions,Accuracy
+Keyword-Based Classifier,18,2,90.0
+TF-IDF + Cosine Similarity,12,8,60.0
